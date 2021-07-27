@@ -2,11 +2,12 @@ www.facebook.com##.ue3kfks5.pw54ja7n.uo3d90p7.l82x9zwi.bi1v6m2q.rq0escxv.j83agx8
 www.facebook.com##span > div > .l9j0dhe7 > .sj5x9vvc.cxgpxx05
 
 
+
+
 ! Title: NoCoin Filter List
 ! Last modified: 18 June 2021
 ! Homepage: https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt
 !-------------------------------------------------------------------------------
-
 ! Third Party blocking ---------------------------------------------------------
 ||cnhv.co^$third-party
 ||coin-hive.com^$third-party
