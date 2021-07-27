@@ -3,7 +3,6 @@ www.facebook.com##span > div > .l9j0dhe7 > .sj5x9vvc.cxgpxx05
 
 
 
-
 ! Title: NoCoin Filter List
 ! Last modified: 18 June 2021
 ! Homepage: https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt
@@ -665,3 +664,11 @@ $script,websocket,domain=pirateproxy.buzz|pirateproxy.ist|pirateproxy.mx|thepira
 @@||broadcastt.xyz/apps/$websocket
 @@||lags.win/ctf$websocket
 @@||siteapi.idkfa.online/v2/units/socket/websocket?$websocket
+
+
+ragalahari.com###st-2
+ragalahari.com###st-el-1
+
+www.mwallpapers.com##.page-header
+www.mwallpapers.com##.py-4
+www.99images.com##.hide-class.truncate.m-0.px-4.p-0 > div
