@@ -2,6 +2,7 @@
 ! Last modified: 24 April 2022
 ! github link : changes every time
 
+!adware risk
 ||01net.com/telecharger/$document
 
 ! https://github.com/uBlockOrigin/uAssets/issues/6587
